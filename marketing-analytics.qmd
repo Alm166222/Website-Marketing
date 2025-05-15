@@ -1,0 +1,22 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected highlights that showcase how I’ve used marketing analytics to grow my nail brand and attract a loyal clientele. These experiences reflect my ability to combine creative content, social media insights, and strategic planning to drive real results.
+
+From crafting Instagram strategies to tracking post performance and understanding what my audience responds to, each effort is grounded in using data to turn engagement into bookings and awareness into brand growth.
+
+## What You’ll Find
+
+-   **Instagram Performance Analysis:** Measuring how posts, reels, and stories contribute to engagement and client bookings.
+-   **Content Strategy & Scheduling:** Using analytics to time posts for maximum visibility and reach.
+-   **Brand Growth & Awareness:** Leveraging trends, hashtags, and audience data to consistently grow my following and build trust.
+-   **Client Insights:** Tracking patterns in engagement and inquiries to understand what services and styles attract the most attention.
+
+------------------------------------------------------------------------

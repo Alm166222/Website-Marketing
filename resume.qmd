@@ -1,0 +1,53 @@
+---
+title: "Résumé"
+format: html
+---
+
+You can view a PDF version of my résumé [here](resume/Resume.pdf).
+
+# Professional Summary
+
+Marketing-focused business owner with a proven track record in brand development, digital engagement, and customer experience. Demonstrates expertise in designing targeted marketing campaigns, analyzing consumer behavior, and managing end-to-end digital presence to boost visibility and client growth. Adept at using social media and CRM tools to cultivate loyal customer bases, generate leads, and drive measurable revenue. Combines entrepreneurial initiative with corporate retail experience to deliver results-driven marketing strategies and memorable brand experiences.
+
+# Technical Skills
+
+-   Programming Languages: R, Python, SQL, etc.
+-   Web Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+
+# Education
+
+| Degree | Year | College / Department | Institution |
+|-------------------|-----------------|--------------------|-----------------|
+| Bachelor in Science in Business Administration-Marketing | 2021 – 2025 | Business Administration | Cal Poly Pomona |
+
+# Work Experience
+
+### [Sales Associate], [Palm Beach Tan]
+*[May 2020 – June 2022]*
+
+-   Sold tanning products and memberships by assessing customer needs and recommending personalized solutions
+-   Utilized POS systems and CRM tools to track customer preferences and manage sales
+-   Consistently exceeded monthly sales goals, contributing to a 25% increase in product revenue during peak seasons
+-   Trained new employees on sales techniques and customer service protocols
+-   Demonstrated strong communication and consultative selling skills
+
+
+### [Sales Associate], [Disneyland Resort]
+*[August 2022- December 2023]*
+
+-   Led a visual merchandising project to enhance guest experience and increase product visibility
+-   Collaborated with cross-functional teams including inventory, visual merchandising, and guest services
+-   Managed sales transactions and supported seasonal promotional campaigns
+-   Contributed guest feedback and sales insights to improve retail strategy
+-   Helped maintain high customer satisfaction through responsive, friendly service
+
+### [Founder & Nail Technician], [nailsbydre]
+*[October 2020 – May 2025]*
+
+-   Led the launch and ongoing growth of a personal brand offering nail services,
+focusing on quality, creativity, and client satisfaction.
+-   Collaborated with suppliers, managed bookings, and maintained client relationships through social media and scheduling tools.
+-   Managed marketing campaigns, service menus, and business operations,
+contributing to consistent monthly revenue growth.
+-   Contributed to strategic planning by analyzing trends, adjusting offerings, and
+maintaining strong customer retention rates.

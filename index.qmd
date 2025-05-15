@@ -1,0 +1,25 @@
+---
+title: "Hi, I'm [Andrea Martin]"
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/resum.png){width="100%" style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a student at Cal Poly Pomona majoring in Business Administration with an emphasis in International Business Marketing.I specialize in global market research and cross-cultural consumer behavior.
+:::
+:::::
+
+## About Me
+
+I hold a High School Diploma from Ruben S. Ayala High School and will be graduating Fall of 2025 with a Bachelor's Degree at Cal Poly Pomona in Business Administration. I also am currently a business owner and founder of @_nailsbydre_ on instagram.
+
+## Let's Connect
+
+You can [email me](mailto:andrea.roxy16@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/andrea-martin-066052248/).
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio.*
