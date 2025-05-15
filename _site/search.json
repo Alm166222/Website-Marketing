@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m [Andrea Martin]",
+    "section": "",
+    "text": "I’m a student at Cal Poly Pomona majoring in Business Administration with an emphasis in International Business Marketing.I specialize in global market research and cross-cultural consumer behavior."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m [Andrea Martin]",
+    "section": "About Me",
+    "text": "About Me\nI hold a High School Diploma from Ruben S. Ayala High School and will be graduating Fall of 2025 with a Bachelor’s Degree at Cal Poly Pomona in Business Administration. I also am currently a business owner and founder of @_nailsbydre_ on instagram."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m [Andrea Martin]",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected highlights that showcase how I’ve used marketing analytics to grow my nail brand and attract a loyal clientele. These experiences reflect my ability to combine creative content, social media insights, and strategic planning to drive real results.\nFrom crafting Instagram strategies to tracking post performance and understanding what my audience responds to, each effort is grounded in using data to turn engagement into bookings and awareness into brand growth."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nInstagram Performance Analysis: Measuring how posts, reels, and stories contribute to engagement and client bookings.\nContent Strategy & Scheduling: Using analytics to time posts for maximum visibility and reach.\nBrand Growth & Awareness: Leveraging trends, hashtags, and audience data to consistently grow my following and build trust.\nClient Insights: Tracking patterns in engagement and inquiries to understand what services and styles attract the most attention."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMarketing-driven business owner with a strong foundation in brand development, customer experience, and digital engagement. Skilled in crafting compelling marketing campaigns, analyzing consumer behavior, and leveraging social media to drive brand visibility and client acquisition. Combines hands-on retail experience with strategic planning to grow businesses, optimize customer journeys, and deliver measurable results. Passionate about using creative storytelling and data insights to connect with audiences and build lasting brand loyalty.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 1 × 5\n  what                                  when        with        where      why  \n  &lt;chr&gt;                                 &lt;chr&gt;       &lt;chr&gt;       &lt;chr&gt;      &lt;lis&gt;\n1 Bachelor of [Business Administration] 2021 – 2025 [Marketing] [Cal Poly… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 3 × 5\n  what                      when                        with        where why   \n  &lt;chr&gt;                     &lt;chr&gt;                       &lt;chr&gt;       &lt;chr&gt; &lt;list&gt;\n1 Sales Associate           May 2020 – June 2022        Palm Beach… &lt;NA&gt;  &lt;list&gt;\n2 Sales Associate           August 2022 – December 2023 Disneyland  &lt;NA&gt;  &lt;list&gt;\n3 Founder & Nail Technician October 2020 – May 2025     Self-Emplo… &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Brand Grwoth & Awareness",
+    "section": "",
+    "text": "Overview\nIn this project, I explore how I’ve been strategically growing my Instagram account, nailsbydre, by tapping into trends, optimizing hashtag use, and analyzing my audience’s behavior. My goal isn’t just to gain followers—it’s to build trust and lasting loyalty through relevant, engaging, and meaningful content.\n\n\n\n\nLearning Outcomes\n\nUnderstand growth patterns using my own follower analytics.\nUse trending hashtags and content formats to boost visibility.\nAnalyze engagement data to understand what resonates with my audience.\nApply trend and theme mapping to inspire content ideas.\nBuild a consistent and trustworthy presence on Instagram\n\n\n\n\nKey Skills Gained\n\nHashtag and trend analysis\nFollower behavior insights\nAudience segmentation\nContent planning for brand growth\nCommunity-building through authenticity"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nMarketing-focused business owner with a proven track record in brand development, digital engagement, and customer experience. Demonstrates expertise in designing targeted marketing campaigns, analyzing consumer behavior, and managing end-to-end digital presence to boost visibility and client growth. Adept at using social media and CRM tools to cultivate loyal customer bases, generate leads, and drive measurable revenue. Combines entrepreneurial initiative with corporate retail experience to deliver results-driven marketing strategies and memorable brand experiences.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nBachelor in Science in Business Administration-Marketing\n2021 – 2025\nBusiness Administration\nCal Poly Pomona\n\n\n\n\n\nWork Experience\n\n[Sales Associate], [Palm Beach Tan]\n[May 2020 – June 2022]\n\nSold tanning products and memberships by assessing customer needs and recommending personalized solutions\nUtilized POS systems and CRM tools to track customer preferences and manage sales\nConsistently exceeded monthly sales goals, contributing to a 25% increase in product revenue during peak seasons\nTrained new employees on sales techniques and customer service protocols\nDemonstrated strong communication and consultative selling skills\n\n\n\n[Sales Associate], [Disneyland Resort]\n[August 2022- December 2023]\n\nLed a visual merchandising project to enhance guest experience and increase product visibility\nCollaborated with cross-functional teams including inventory, visual merchandising, and guest services\nManaged sales transactions and supported seasonal promotional campaigns\nContributed guest feedback and sales insights to improve retail strategy\nHelped maintain high customer satisfaction through responsive, friendly service\n\n\n\n[Founder & Nail Technician], [nailsbydre]\n[October 2020 – May 2025]\n\nLed the launch and ongoing growth of a personal brand offering nail services, focusing on quality, creativity, and client satisfaction.\nCollaborated with suppliers, managed bookings, and maintained client relationships through social media and scheduling tools.\nManaged marketing campaigns, service menus, and business operations, contributing to consistent monthly revenue growth.\nContributed to strategic planning by analyzing trends, adjusting offerings, and maintaining strong customer retention rates."
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "Content Strategy & Scheduling",
+    "section": "",
+    "text": "Overview\nThis project analyzes Instagram analytics for nailsbydre to uncover optimal posting times and content patterns that drive visibility and reach. By aligning posts with audience behavior, this strategy boosts engagement and streamlines content planning.\n\n\n\n\nLearning Outcomes\n\nUnderstand follower activity trends and peak engagement times\nAnalyze how day-of-week and time-of-day affect visibility.\nImprove consistency and planning in content rollout.\nBuild a scheduling strategy based on real performance insights\n\n\n\n\nKey Skills Gained\n\nContent calendar development\nInstagram timing analytics\nEngagement pattern recognition\nStrategic content scheduling\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Client Insights",
+    "section": "",
+    "text": "Overview\nIn this project, I dive into engagement patterns, comments, and inquiry data from my Instagram account nailsbydre to understand what services and nail styles attract the most attention. By identifying what resonates most with my audience—whether it’s French tips, chrome designs, or seasonal themes—I can tailor my offerings and content to client demand.\n\n\n\n\nLearning Outcomes\n\nAnalyze engagement trends by nail style and service.\nTrack which content types drive DMs and booking inquiries.\nUnderstand client interest through saves, comments, and shares.\nAlign visual content with what clients want most.\nUse data to shape service menu updates and marketing\n\n\n\n\nKey Skills Gained\n\nService-based content analytics\nDM and inquiry tracking\nTrend-based content refinement\nData-informed client strategy\nStyle preference mapping"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Instagram Performance Dashboard",
+    "section": "",
+    "text": "Overview\nThis dashboard project tracks and visualizes key Instagram performance metrics for the nailsbydre account. It provides insight into audience growth, content engagement, post performance, and profile reach. The goal is to better understand what resonates with followers, enhance content strategy, and grow the nailsbydre brand.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nImprove personal branding through evidence-based social strategy.\n\n\n\n\nKey Skills Gained\n\nInstagram analytics interpretation\n\nData storytelling for personal branding\nDashboard design and layout\nContent performance optimization\nStrategic social media planning"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below is a selected project that showcased my work in strategic marketing. This example highlights how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "strategic-marketing.html#influencer-engagement",
+    "href": "strategic-marketing.html#influencer-engagement",
+    "title": "Strategic Marketing",
+    "section": "[Influencer Engagement]",
+    "text": "[Influencer Engagement]\nIn this project, I collaborated with a sports/ beauty influencer to increase brand awareness and extend my reach on social platforms. By offering a complimentary nail service in exchange for content, I strategically positioned my business in front of a highly engaged audience on TikTok.\n\nLearning Outcomes\n\nIdentified and reached out to an influencer whose audience aligned with my target clients.\nNegotiated a mutually beneficial exchange: nail service for social media exposure.\nPrepared a visually appealing, trendy nail design tailored to her aesthetic.\nMonitored engagement metrics from the resulting TikTok post.\nMeasured referral traffic and inquiries attributed to the collaboration.\n\n:::\n\n\n\nKey Skills Gained\n\nInfluencer outreach strategy\nContent-based brand leveraging\nCollaboration negotiation and planning\nEngagement tracking and impact analysis\nCreative brand presentation for social content"
+  },
+  {
+    "objectID": "listings/Client Insights.html",
+    "href": "listings/Client Insights.html",
+    "title": "Client Insights",
+    "section": "",
+    "text": "Overview\nIn this project, I dive into engagement patterns, comments, and inquiry data from my Instagram account nailsbydre to understand what services and nail styles attract the most attention. By identifying what resonates most with my audience—whether it’s French tips, chrome designs, or seasonal themes—I can tailor my offerings and content to client demand.\n\n\n\n\nLearning Outcomes\n\nAnalyze engagement trends by nail style and service.\nTrack which content types drive DMs and booking inquiries.\nUnderstand client interest through saves, comments, and shares.\nAlign visual content with what clients want most.\nUse data to shape service menu updates and marketing\n\n\n\n\nKey Skills Gained\n\nService-based content analytics\nDM and inquiry tracking\nTrend-based content refinement\nData-informed client strategy\nStyle preference mapping"
+  },
+  {
+    "objectID": "listings/Instagram Performance Dashboard.html",
+    "href": "listings/Instagram Performance Dashboard.html",
+    "title": "Instagram Performance Dashboard",
+    "section": "",
+    "text": "Overview\nThis dashboard project tracks and visualizes key Instagram performance metrics for the nailsbydre account. It provides insight into audience growth, content engagement, post performance, and profile reach. The goal is to better understand what resonates with followers, enhance content strategy, and grow the nailsbydre brand.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nImprove personal branding through evidence-based social strategy.\n\n\n\n\nKey Skills Gained\n\nInstagram analytics interpretation\n\nData storytelling for personal branding\nDashboard design and layout\nContent performance optimization\nStrategic social media planning"
+  },
+  {
+    "objectID": "listings/Brand Growth & Awareness.html",
+    "href": "listings/Brand Growth & Awareness.html",
+    "title": "Brand Grwoth & Awareness",
+    "section": "",
+    "text": "Overview\nIn this project, I explore how I’ve been strategically growing my Instagram account, nailsbydre, by tapping into trends, optimizing hashtag use, and analyzing my audience’s behavior. My goal isn’t just to gain followers—it’s to build trust and lasting loyalty through relevant, engaging, and meaningful content.\n\n\n\n\nLearning Outcomes\n\nUnderstand growth patterns using my own follower analytics.\nUse trending hashtags and content formats to boost visibility.\nAnalyze engagement data to understand what resonates with my audience.\nApply trend and theme mapping to inspire content ideas.\nBuild a consistent and trustworthy presence on Instagram\n\n\n\n\nKey Skills Gained\n\nHashtag and trend analysis\nFollower behavior insights\nAudience segmentation\nContent planning for brand growth\nCommunity-building through authenticity"
+  },
+  {
+    "objectID": "listings/Content Strategy & Scheduling.html",
+    "href": "listings/Content Strategy & Scheduling.html",
+    "title": "Content Strategy & Scheduling",
+    "section": "",
+    "text": "Overview\nThis project analyzes Instagram analytics for nailsbydre to uncover optimal posting times and content patterns that drive visibility and reach. By aligning posts with audience behavior, this strategy boosts engagement and streamlines content planning.\n\n\n\n\nLearning Outcomes\n\nUnderstand follower activity trends and peak engagement times\nAnalyze how day-of-week and time-of-day affect visibility.\nImprove consistency and planning in content rollout.\nBuild a scheduling strategy based on real performance insights\n\n\n\n\nKey Skills Gained\n\nContent calendar development\nInstagram timing analytics\nEngagement pattern recognition\nStrategic content scheduling\nStrategy development"
+  },
+  {
+    "objectID": "listings/Instagram Performance Analysis.html",
+    "href": "listings/Instagram Performance Analysis.html",
+    "title": "Instagram Performance Analysis",
+    "section": "",
+    "text": "Overview\nThis dashboard project tracks and visualizes key Instagram performance metrics for the nailsbydre account. It provides insight into audience growth, content engagement, post performance, and profile reach. The goal is to better understand what resonates with followers, enhance content strategy, and grow the nailsbydre brand.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nImprove personal branding through evidence-based social strategy.\n\n\n\n\nKey Skills Gained\n\nInstagram analytics interpretation\n\nData storytelling for personal branding\nDashboard design and layout\nContent performance optimization\nStrategic social media planning"
+  }
+]
