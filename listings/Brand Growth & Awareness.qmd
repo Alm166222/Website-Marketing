@@ -1,0 +1,27 @@
+---
+title: "Brand Grwoth & Awareness"
+image: "(images/IMG_2256.jpg)"
+index: 3
+---
+
+#### **Overview**  
+In this project, I explore how I’ve been strategically growing my Instagram account, _nailsbydre_, by tapping into trends, optimizing hashtag use, and analyzing my audience’s behavior. My goal isn’t just to gain followers—it's to build trust and lasting loyalty through relevant, engaging, and meaningful content.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Understand growth patterns using my own follower analytics.
+- Use trending hashtags and content formats to boost visibility.
+- Analyze engagement data to understand what resonates with my audience.
+- Apply trend and theme mapping to inspire content ideas.
+- Build a consistent and trustworthy presence on Instagram
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Hashtag and trend analysis
+- Follower behavior insights
+- Audience segmentation
+- Content planning for brand growth
+- Community-building through authenticity
+:::
+:::

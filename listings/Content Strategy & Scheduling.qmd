@@ -1,0 +1,27 @@
+---
+title: "Content Strategy & Scheduling"
+image: "(images/IMG_2255.jpg)"
+
+index: 2
+---
+
+#### **Overview**  
+This project analyzes Instagram analytics for _nailsbydre_ to uncover optimal posting times and content patterns that drive visibility and reach. By aligning posts with audience behavior, this strategy boosts engagement and streamlines content planning.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Understand follower activity trends and peak engagement times
+- Analyze how day-of-week and time-of-day affect visibility. 
+- Improve consistency and planning in content rollout. 
+- Build a scheduling strategy based on real performance insights
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Content calendar development
+- Instagram timing analytics
+- Engagement pattern recognition
+- Strategic content scheduling
+- Strategy development
+:::
+:::

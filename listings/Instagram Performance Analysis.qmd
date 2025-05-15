@@ -1,0 +1,28 @@
+---
+title: "Instagram Performance Analysis"
+image: "(images/IMG_2254.JPG)"
+format: html
+index: 1
+---
+
+#### **Overview**  
+This dashboard project tracks and visualizes key Instagram performance metrics for the _nailsbydre_ account. It provides insight into audience growth, content engagement, post performance, and profile reach. The goal is to better understand what resonates with followers, enhance content strategy, and grow the _nailsbydre_ brand.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Visualize and monitor key marketing metrics.  
+- Analyze performance trends across multiple campaigns.  
+- Identify high- and low-performing segments.  
+- Communicate insights through interactive visuals.  
+- Improve personal branding through evidence-based social strategy.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Instagram analytics interpretation  
+- Data storytelling for personal branding
+- Dashboard design and layout
+- Content performance optimization
+- Strategic social media planning
+:::
+:::

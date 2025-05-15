@@ -1,0 +1,27 @@
+---
+title: "Client Insights"
+image: "images/IMG_2254.jpg" 
+index: 4
+---
+
+#### **Overview**  
+In this project, I dive into engagement patterns, comments, and inquiry data from my Instagram account _nailsbydre_ to understand what services and nail styles attract the most attention. By identifying what resonates most with my audience—whether it’s French tips, chrome designs, or seasonal themes—I can tailor my offerings and content to client demand.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Analyze engagement trends by nail style and service.
+- Track which content types drive DMs and booking inquiries.
+- Understand client interest through saves, comments, and shares.
+- Align visual content with what clients want most.
+- Use data to shape service menu updates and marketing
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Service-based content analytics
+- DM and inquiry tracking
+- Trend-based content refinement
+- Data-informed client strategy
+- Style preference mapping
+:::
+:::
