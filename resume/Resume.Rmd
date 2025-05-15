@@ -1,0 +1,99 @@
+---
+name: Andrea
+surname: Martin
+position: "Business Owner"
+phone: +1 (909) 631-4299
+email: "andrea.roxy16@gmail.com"
+github: Alm166222
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
+  install.packages(c("tinytex","vitae","tibble"))
+}
+
+if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
+  message("► TinyTeX not found – installing")
+  tinytex::install_tinytex()        
+} else {
+  message("✓ LaTeX present – no installation needed.")
+}
+
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+Marketing-driven business owner with a strong foundation in brand development, customer experience, and digital engagement. Skilled in crafting compelling marketing campaigns, analyzing consumer behavior, and leveraging social media to drive brand visibility and client acquisition. Combines hands-on retail experience with strategic planning to grow businesses, optimize customer journeys, and deliver measurable results. Passionate about using creative storytelling and data insights to connect with audiences and build lasting brand loyalty.
+
+
+# Technical Skills
+
+- **Programming Languages:** R, Python, SQL, etc.  
+- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "Bachelor of [Business Administration]", "2021 – 2025", "[Marketing]", "[Cal Poly Pomona]"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+# Work Experience
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+
+  "May 2020 – June 2022", "Palm Beach Tan",
+  list(
+    "Sold tanning products and memberships by assessing customer needs and recommending tailored solutions.",
+    "Used POS systems and CRM tools to manage sales, track customer prefernces, and process transactions efficiently",
+    "Consistently met or exceeded montly sales targets, contributing to a 25% increase in product revenue during peak seasons.",
+    "Trained new hires on product. knowledge, customer service protocols, and sales techniquues to ensure consistent team performance"
+  ),
+  "Sales Associate",
+  
+  "August 2022 – December 2023", "Disneyland",
+  list(
+    "Led a project focused on optimizing merchandise displays to enhance guest experience and drive product visibility.",
+    "Collaborated cross-functionally with inventory, visual merchandising, and guest services teams.",
+    "Managed sales transactions, restocked inventory, and supported promotional campaigns for seasonal merchandise.",
+    "Contributed to strategic planning by providing guest feedback and sales insights to improve retail performance."
+  ),
+  "Sales Associate",
+  
+  "October 2020 – May 2025", "Self-Employed – [_nailsbydre]",
+  list(
+   "Led the launch and ongoing growth of a personal brand offering nail services, focusing on quality, creativity, and client satisfaction.",
+  "Collaborated with suppliers, managed bookings, and maintained client relationships through social media and scheduling tools.",
+  "Managed marketing campaigns, service menus, and business operations, contributing to consistent monthly revenue growth.",
+  "Contributed to strategic planning by analyzing trends, adjusting offerings, and maintaining strong customer retention rates."
+),
+"Founder & Nail Technician",
+
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Company,
+    why = Duties
+  )
+```
+
+
+
